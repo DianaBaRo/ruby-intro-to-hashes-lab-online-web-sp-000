@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
-
+  my_hash = {}
 end
 
 def monopoly
